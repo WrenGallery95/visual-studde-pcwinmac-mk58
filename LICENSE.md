@@ -1,4 +1,4 @@
-# 
+# رسمي Visual Studio Code أدوات لـ Mac OS | مجاني Visual Studio Code أدوات لـ PC Windows. مع مراقب النشاط و الإحساس الذكي — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
